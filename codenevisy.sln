@@ -3,17 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33723.286
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CN.Api", "codenevisy\CN.Api.csproj", "{C5FA8704-8E96-4920-A138-CA2071014F2C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CN.Api", "codenevisy\CN.Api.csproj", "{C5FA8704-8E96-4920-A138-CA2071014F2C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CN.Domain", "CN.Domain\CN.Domain.csproj", "{722EEEB4-9ED7-4764-AE4D-F1A16A21BAD4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CN.Domain", "CN.Domain\CN.Domain.csproj", "{722EEEB4-9ED7-4764-AE4D-F1A16A21BAD4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CN.Infrastructure", "CN.Infrastructure\CN.Infrastructure.csproj", "{D27C60F0-C407-4A39-978C-6D3F16DB931D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CN.Infrastructure", "CN.Infrastructure\CN.Infrastructure.csproj", "{D27C60F0-C407-4A39-978C-6D3F16DB931D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CN.Services", "CN.Services\CN.Services.csproj", "{34162675-DE11-491A-881A-C484EA6B89F2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CN.Services", "CN.Services\CN.Services.csproj", "{34162675-DE11-491A-881A-C484EA6B89F2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CN.Persistence", "CN.Persistence\CN.Persistence.csproj", "{F961AB30-0C28-421A-A92C-9B12596E40FB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CN.Persistence", "CN.Persistence\CN.Persistence.csproj", "{F961AB30-0C28-421A-A92C-9B12596E40FB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CN.Common", "Common\CN.Common.csproj", "{4ED5E84C-B499-4188-8E27-37A9B284EC13}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CN.Common", "Common\CN.Common.csproj", "{4ED5E84C-B499-4188-8E27-37A9B284EC13}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Sql", "Sql", "{4CFA2DF5-14C6-46D7-B30F-6B649F04D055}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
